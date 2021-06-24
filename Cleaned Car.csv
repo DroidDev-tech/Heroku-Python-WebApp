@@ -1,0 +1,15 @@
+,name,company,year,Price,kms_driven,fuel_type
+0,1.6i VTEC Eco,Honda,2018,236750,98000,Petrol
+1,1.6i VTEC Eco,Honda,2015,199750,90000,Diesel
+2,1.6i VTEC Eco,Honda,2020,295000,3500,Petrol
+3,A4 Sedan 1.4,Audi,2017,399000,58000,Diesel
+4,A4 Sedan 1.4,Audi,2017,394900,64000,Petrol
+5,Corolla 1.33 Comfort,Toyota,2011,116500,110000,Diesel
+6,Corolla 1.33 Comfort,Toyota,2011,121250,87000,Petrol
+7,Corolla 1.33 Comfort,Toyota,2011,125000,110000,Petrol
+8, Optima 1.7,Kia,2012,210000,195000,Diesel
+9, Optima 1.7,Kia,2014,229500,179000,Diesel
+10,Optima 1.7 CRDi,Kia,2012,165000,315000,Diesel
+11, 206 1.4,Peugeot,2006,69900,215000,Petrol
+12, 206 1.4,Peugeot,2003,62000,230000,Diesel
+13, 206 1.4,Peugeot,2004,61500,299000,Diesel
